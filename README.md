@@ -1,16 +1,29 @@
-## Hi there 👋
+# ClipSave
 
-<!--
-**clipsave/clipsave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ClipSave is a free online video downloader that helps users download videos from YouTube, TikTok, Instagram, Facebook, Twitter (X), Vimeo, Dailymotion, LinkedIn, and Telegram.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- YouTube Video Downloader
+- TikTok Downloader
+- Instagram Video Downloader
+- Facebook Reels Downloader
+- HD Video Downloads
+- Fast & Secure
+- No Software Installation Required
+
+🌐 Website: https://www.clipsaves.com/en
+
+📖 Blog: https://www.clipsaves.com/en/blogs
+
+## Supported Platforms
+
+- YouTube
+- TikTok
+- Instagram
+- Facebook
+- Twitter (X)
+- Vimeo
+- Dailymotion
+- LinkedIn
+- Telegram
